@@ -91,14 +91,6 @@ print("Predicted Genre:", predicted_genre)
 
 The model achieves an accuracy of ~XX% on the test dataset. Detailed performance metrics are available in the console output.
 
-## Contribution
-
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [Kaggle](https://www.kaggle.com) for providing the dataset.
@@ -106,4 +98,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Happy coding! 🎉
+UNAI TECH !!!
